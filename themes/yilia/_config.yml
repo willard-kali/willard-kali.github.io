@@ -6,9 +6,9 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
+  github: "https://github.com/willard-kali/"
   weibo: "#"
-  rss: "#"
+  #rss: "#"
   zhihu: "#"
   #qq: "#"
   #weixin: "#"
