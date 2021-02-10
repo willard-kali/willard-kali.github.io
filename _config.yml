@@ -100,6 +100,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: yilia
 
+leancloud_visitors:
+  enable: true
+  appid: rre4gLCNzdzgKCLjUzDC4Izt-gzGzoHsz #Leancloud应用的appId
+  appkey: 61w53OgBft0Us5FdeqF8gFAQ #Leancloud应用的appKey
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
