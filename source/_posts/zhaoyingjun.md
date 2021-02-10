@@ -19,9 +19,3 @@ tags:
 赵英俊是他起的艺名，来源于赵本山的一个小品。
 
 思维有点乱，时间也不够，先写这些，明天再改。
-
-
-
-```jsx
-<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>
-```
