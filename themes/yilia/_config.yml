@@ -69,7 +69,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: http://qnrcxjb9l.hn-bkt.clouddn.com/blog_avatar.jpg
+avatar: /img/blog_avatar.jpg
 
 #是否开启分享
 share_jia: true
