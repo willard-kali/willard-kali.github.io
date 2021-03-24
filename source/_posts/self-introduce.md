@@ -8,12 +8,12 @@ tags:
 
   * 一个普通人，是第一批物联网专业的大学毕业生，有一颗向往互联网的心，但最终在ICT行业做企业业务软件开发工作4年。
   * 用过Java、JavaScript、Scala、Shell。
-  * 用过SpringBoot、ElasticSearch、ServiceComb、Spark、SparkStreaming、Yarn、Akka。
+  * 用过ElasticSearch、SpringBoot、ServiceComb、Spark、SparkStreaming、Yarn、Akka。
   * 写过分布式、索引、任务调度、微服务、网关、登录状态。
   * 分布式索引支持过百亿级数据量。
   * 理财小白，已全方位配置好各类保险。
 
-# 愿望
+# 目标
   * 做技术Leader
   * 年薪税前百万
   * 持续输出文章，能有1000+人的阅读量
@@ -24,3 +24,11 @@ tags:
   * 学习技术Leader的技能要求，再详细分解差距点
   * 制定文章输出计划，每周至少3篇文章
   * 找几个年薪百万的案例学习，选取相似职业，具体分析差距
+
+
+
+#3月总结
+
+* **目标感不够强，自律性差**，在工作之外的时间，主要是进行了娱乐项目，看剧、玩手机、刷视频等等。
+* 没有输出文章，到目前为止**0篇**。
+* 没有详细分解目标的差距，没有坚持投入精力在学习、阅读等方面。
