@@ -111,8 +111,8 @@ valine:
 # 添加浏览量
 leancloud_visitors:
   enable: true
-  appid: rre4gLCNzdzgKCLjUzDC4Izt-gzGzoHsz #Leancloud应用的appId
-  appkey: 61w53OgBft0Us5FdeqF8gFAQ #Leancloud应用的appKey
+  appid: rre4gLCNzdzgKCLjUzDC4Izt-gzGzoHsz
+  appkey: 61w53OgBft0Us5FdeqF8gFAQ
 
 #添加一下js插件的 CDN地址
 js_cdn:
