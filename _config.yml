@@ -119,6 +119,12 @@ jsonContent:
       categories: false
       tags: true
 
+# 添加浏览量
+leancloud_visitors:
+  enable: true
+  appid: rre4gLCNzdzgKCLjUzDC4Izt-gzGzoHsz
+  appkey: 61w53OgBft0Us5FdeqF8gFAQ
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
